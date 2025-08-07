@@ -1,7 +1,7 @@
 <h1>Projeto: Site pra Uma Modelo</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto simples e fictício de uma Modelo. Desenvolvido durante um curso de HTML e CSS para estudo e prática.</p>
+<p>Projeto simples e fictício de uma Modelo. Desenvolvido durante um curso de HTML e CSS, para estudo e prática.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/site_para_uma_modelo-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
