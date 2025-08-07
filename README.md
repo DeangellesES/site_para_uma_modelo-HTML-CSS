@@ -22,4 +22,5 @@
 <ul>
   <li>Navegação entre páginas utilizando links</li>
   <li>Projeto desenvolvido de forma muito simples, apenas com divs</li>
+  <li>Sem padrão de Projetos</li>
 </ul>
